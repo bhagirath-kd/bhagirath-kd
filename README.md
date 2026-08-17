@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bhagirath
 
-<!--
-**bhagirath-kd/bhagirath-kd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at IIT Madras, exploring AI, automation, and technology.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical projects and learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+Data Science · AI · Automation · Python
+
+### Currently
+Building • Learning • Exploring
+
+---
+
+[LinkedIn](www.linkedin.com/in/bhagirath-sinh-62a8b5371) · [Email](bhagirath.connect@gmail.com)
